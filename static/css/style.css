@@ -1,0 +1,26 @@
+body { 
+	color: black; 
+	background: lightblue; 
+	padding: 0 5em; 
+	margin:0
+}
+h1 {
+	padding: 2em 1em;
+	background: lightyellow;
+}
+p { 
+	margin: 1em 0;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+ul li{
+    float: right;
+    margin-top: 10px;
+    padding: 10px;
+    border-style: solid;
+    border: 1px solid;
+}
